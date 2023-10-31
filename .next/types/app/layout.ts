@@ -1,4 +1,4 @@
-// File: /home/minhajur/Desktop/work-station/next-js/rahat-shop-frontned/app/layout.tsx
+// File: /home/minhajur/Desktop/work-station/rahat-shop-frontned/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

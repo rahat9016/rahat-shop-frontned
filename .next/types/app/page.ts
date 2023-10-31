@@ -1,4 +1,4 @@
-// File: /home/minhajur/Desktop/work-station/next-js/rahat-shop-frontned/app/page.tsx
+// File: /home/minhajur/Desktop/work-station/rahat-shop-frontned/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
